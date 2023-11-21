@@ -1,0 +1,77 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "learn_java.Test",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "learn_java.App",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
+      "name": "Enums",
+      "request": "launch",
+      "mainClass": "learn_java.Enums",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
+      "name": "Expressions",
+      "request": "launch",
+      "mainClass": "learn_java.Expressions",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
+      "name": "InputOutput",
+      "request": "launch",
+      "mainClass": "learn_java.InputOutput",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
+      "name": "Interest",
+      "request": "launch",
+      "mainClass": "learn_java.Interest",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
+      "name": "Scanner",
+      "request": "launch",
+      "mainClass": "learn_java.Scanner",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
+      "name": "Strings",
+      "request": "launch",
+      "mainClass": "learn_java.Strings",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
+      "name": "TimedComputation",
+      "request": "launch",
+      "mainClass": "learn_java.TimedComputation",
+      "projectName": "demo"
+    }
+  ]
+}
