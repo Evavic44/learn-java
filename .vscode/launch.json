@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Switch",
+      "request": "launch",
+      "mainClass": "Switch",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
+      "name": "Conditionals",
+      "request": "launch",
+      "mainClass": "Conditionals",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
+      "name": "CalcBMI",
+      "request": "launch",
+      "mainClass": "CalcBMI",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
+      "name": "While",
+      "request": "launch",
+      "mainClass": "While",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
+      "name": "Loops",
+      "request": "launch",
+      "mainClass": "Loops",
+      "projectName": "demo"
+    },
+    {
+      "type": "java",
       "name": "Test",
       "request": "launch",
       "mainClass": "learn_java.Test",
