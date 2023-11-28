@@ -6,59 +6,94 @@
   "configurations": [
     {
       "type": "java",
-      "name": "Output",
+      "name": "WhileLoop",
       "request": "launch",
-      "mainClass": "Output",
-      "projectName": "demo"
+      "mainClass": "WhileLoop",
+      "projectName": "LearnJava"
     },
     {
       "type": "java",
-      "name": "Input",
+      "name": "ControlStructures",
       "request": "launch",
-      "mainClass": "Input",
-      "projectName": "demo"
-    },
-    {
-      "type": "java",
-      "name": "Switch",
-      "request": "launch",
-      "mainClass": "Switch",
-      "projectName": "demo"
-    },
-    {
-      "type": "java",
-      "name": "Conditionals",
-      "request": "launch",
-      "mainClass": "Conditionals",
-      "projectName": "demo"
-    },
-    {
-      "type": "java",
-      "name": "CalcBMI",
-      "request": "launch",
-      "mainClass": "CalcBMI",
-      "projectName": "demo"
-    },
-    {
-      "type": "java",
-      "name": "While",
-      "request": "launch",
-      "mainClass": "While",
-      "projectName": "demo"
+      "mainClass": "ControlStructures",
+      "projectName": "LearnJava"
     },
     {
       "type": "java",
       "name": "Loops",
       "request": "launch",
       "mainClass": "Loops",
-      "projectName": "demo"
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "Switch",
+      "request": "launch",
+      "mainClass": "Switch",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "CalcBMI",
+      "request": "launch",
+      "mainClass": "CalcBMI",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "Output",
+      "request": "launch",
+      "mainClass": "Output",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "Input",
+      "request": "launch",
+      "mainClass": "Input",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "Switch",
+      "request": "launch",
+      "mainClass": "Switch",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "Conditionals",
+      "request": "launch",
+      "mainClass": "Conditionals",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "CalcBMI",
+      "request": "launch",
+      "mainClass": "CalcBMI",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "While",
+      "request": "launch",
+      "mainClass": "While",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "Loops",
+      "request": "launch",
+      "mainClass": "Loops",
+      "projectName": "LearnJava"
     },
     {
       "type": "java",
       "name": "Test",
       "request": "launch",
       "mainClass": "learn_java.Test",
-      "projectName": "demo"
+      "projectName": "LearnJava"
     },
     {
       "type": "java",
@@ -71,56 +106,56 @@
       "name": "App",
       "request": "launch",
       "mainClass": "learn_java.App",
-      "projectName": "demo"
+      "projectName": "LearnJava"
     },
     {
       "type": "java",
       "name": "Enums",
       "request": "launch",
       "mainClass": "learn_java.Enums",
-      "projectName": "demo"
+      "projectName": "LearnJava"
     },
     {
       "type": "java",
       "name": "Expressions",
       "request": "launch",
       "mainClass": "learn_java.Expressions",
-      "projectName": "demo"
+      "projectName": "LearnJava"
     },
     {
       "type": "java",
       "name": "InputOutput",
       "request": "launch",
       "mainClass": "learn_java.InputOutput",
-      "projectName": "demo"
+      "projectName": "LearnJava"
     },
     {
       "type": "java",
       "name": "Interest",
       "request": "launch",
       "mainClass": "learn_java.Interest",
-      "projectName": "demo"
+      "projectName": "LearnJava"
     },
     {
       "type": "java",
       "name": "Scanner",
       "request": "launch",
       "mainClass": "learn_java.Scanner",
-      "projectName": "demo"
+      "projectName": "LearnJava"
     },
     {
       "type": "java",
       "name": "Strings",
       "request": "launch",
       "mainClass": "learn_java.Strings",
-      "projectName": "demo"
+      "projectName": "LearnJava"
     },
     {
       "type": "java",
       "name": "TimedComputation",
       "request": "launch",
       "mainClass": "learn_java.TimedComputation",
-      "projectName": "demo"
+      "projectName": "LearnJava"
     }
   ]
 }
