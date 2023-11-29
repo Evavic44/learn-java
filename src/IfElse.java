@@ -12,8 +12,7 @@ public class IfElse {
 
 /*
 * If Statement
-An if statement tells the computer to take one of two alternative courses of action, depending
-on whether the value of a given boolean-valued expression is true or false
+An if statement tells the computer to take one of two alternative courses of action, depending on whether the value of a given boolean-valued expression is true or false
 
 if ( 〈boolean-expression 〉 )
 〈statement1 〉

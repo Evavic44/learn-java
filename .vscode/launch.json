@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Exceptions",
+      "request": "launch",
+      "mainClass": "Exceptions",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
       "name": "ForLoop",
       "request": "launch",
       "mainClass": "ForLoop",

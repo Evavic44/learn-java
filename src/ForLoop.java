@@ -6,7 +6,7 @@ public class ForLoop {
     }
 
     // Print all even numbers between 1 - 20
-    System.out.print("Event numbers\n");
+    System.out.print("Even numbers\n");
     int num;
     for(num = 1; num <= 20; num++) {
       if (num % 2 != 0) {
