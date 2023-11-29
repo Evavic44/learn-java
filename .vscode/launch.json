@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ForLoop",
+      "request": "launch",
+      "mainClass": "ForLoop",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
       "name": "WhileLoop",
       "request": "launch",
       "mainClass": "WhileLoop",
