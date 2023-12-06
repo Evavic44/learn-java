@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "Array",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "Arrays",
+      "request": "launch",
+      "mainClass": "Arrays",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "Algorithm",
+      "request": "launch",
+      "mainClass": "Algorithm",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
       "name": "Exceptions",
       "request": "launch",
       "mainClass": "Exceptions",
