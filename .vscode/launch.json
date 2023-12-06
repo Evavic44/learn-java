@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Code",
+      "request": "launch",
+      "mainClass": "Code",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "Access",
+      "request": "launch",
+      "mainClass": "Access",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "guessNum",
+      "request": "launch",
+      "mainClass": "guessNum",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "Subroutines",
+      "request": "launch",
+      "mainClass": "Subroutines",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
       "name": "Array",
       "request": "launch",
       "mainClass": "Array",
