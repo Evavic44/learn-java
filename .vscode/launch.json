@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Constructors",
+      "request": "launch",
+      "mainClass": "Constructors",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "Encapsulation",
+      "request": "launch",
+      "mainClass": "Encapsulation",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
       "name": "Arrayz",
       "request": "launch",
       "mainClass": "Arrayz",
