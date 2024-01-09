@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "HelloWorld2",
+      "request": "launch",
+      "mainClass": "GUI.HelloWorld2",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "GUI.HelloWorld",
+      "projectName": "LearnJava"
+    },
+    {
+      "type": "java",
       "name": "Polymorphism",
       "request": "launch",
       "mainClass": "Polymorphism",

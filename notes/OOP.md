@@ -1,15 +1,23 @@
 ## Definition
 
-Object oriented programming (OOP) is a programming paradigm that organizes code into objects, which encapsulates data and behaviour. This approach enhances code modularity, reusability, and maintainability. The fundamental concepts of OOP includes, creating objects and classes, defining methods, attribute, and constructors.
+Object-oriented programming (OOP) is a programming paradigm of structuring and organizing software programs as objects. In OOP, these objects are instances of classes, which serve as blueprints defining the attributes and behaviors.
 
-It represents an attempt to make programs more closely model the way people think about and deal with the world. In OOP, subroutines are often referred to as methods. Objects are closely related to classes as they also contain variables and methods.
+In the past, programs were structured in a procedural format. This meant breaking down a program into smaller tasks or functions, following a top-down approach. Procedures operated on global data, and information flowed between them.
 
-The four main principles/paradigms of OOP are:
+_Here's a diagram to illustrate the procedural approach:_
+![procedural programming diagram](./procedural-paradigm.png)
 
-- Abstraction
-- Encapsulation
-- Inheritance
-- Polymorphism
+With OOP, instead of procedures or tasks, it employs objects—entities that have behaviors, holding information, data, and can interact with other objects. This new concept makes designing programs more natural and easier to reason about and understand.
+
+It is important to note that OOP concepts can be employed in many other programming languages, however, support for these concepts may differ from languages that actively support it. These languages treat everything as objects, and are referred to as "Object-oriented" programming languages. Common examples include Java, C++, Python, Ruby, C#, and JavaScript.
+
+## Structure of Object-oriented Programming
+
+Objects in OOP model real-world entities people interact with, for example a motor vehicle. Suppose a program deals with motor vehicles like cars, trucks, and motorcycles, the program could use a class named Vehicle to represent the types of vehicles.
+
+A vehicle in this sense is a class that provides the characteristics of a movable propulsion machine. There are different kinds of vehicles(objects) that have different properties like size, speed, engine type(attributes), and they ultimately perform numerous functionalities(methods).
+
+Here's a class diagram to illustrate this concept better:
 
 ## Encapsulation
 
@@ -156,7 +164,7 @@ class B extends A {
 
 ### Example:
 
-Suppose a program deals with motor vehicles like cars, trucks, and motorcycles, the program could use a class named `Vehicle` to keep represent all types of vehicles.
+Suppose a program deals with motor vehicles like cars, trucks, and motorcycles, the program could use a class named `Vehicle` to represent all types of vehicles.
 
 ```java
 Vehicles
